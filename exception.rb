@@ -8,6 +8,7 @@ class Job
     end
   rescue => e
     puts e.message
+    puts "test"
   end
 end
 
