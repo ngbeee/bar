@@ -15,3 +15,4 @@ job = Job.new
 
 job.perform(true)
 job.perform(false)
+job.perform(true)
